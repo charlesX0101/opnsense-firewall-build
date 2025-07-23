@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+
+# Editor backup files
+*~
+*.swp
+*.swo
+*.bak
+
+# Log and temp files
+*.log
+*.tmp
+*.cache
+
+# Thumbnail or image cache artifacts
+._*
+Thumbs.db
+ehthumbs.db
+
+# Optional: Exclude raw diagram files (if not used)
+*.drawio.bak
+
+# Ignore system-specific metadata folders
+__MACOSX/
