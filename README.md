@@ -1,4 +1,4 @@
-##OPNsense Firewall Segmentation for Homelab
+## OPNsense Firewall Segmentation for Homelab
 
 # Overview
 
