@@ -1,6 +1,6 @@
-## OPNsense Firewall Segmentation for Homelab
+# OPNsense Firewall Segmentation for Homelab
 
-# Overview
+## Overview
 
 This repository documents the full build and setup of a segmented firewall using OPNsense on a Protectli Vault FW6E appliance. It is the main network part of a larger homelab project focused on quality segmentation, monitoring, and security practices. The goal of this project is to build a secure firewall that isolates internal network zones, limits unnecessary traffic, and enforces least privilege access across the environment.
 
